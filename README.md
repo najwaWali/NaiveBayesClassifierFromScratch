@@ -1,6 +1,6 @@
 # NaiveBayesClassifierFromScratch
 
-This project implements a Naive Bayes classifier from scratch (without libraries) using Python. The classifier is used to detect whether patien has the diabetes or not.
+This project implements a Naive Bayes classifier from scratch (without libraries) using Python. The classifier is used to detect whether a patient has diabetes or not.
 
 ### Naive Bayes classifier
 
